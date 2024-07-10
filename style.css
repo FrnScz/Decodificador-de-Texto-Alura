@@ -7,6 +7,7 @@
 body {
     width: 100%;
     background-color: #f3f5fc;
+    height: 100vh;
 }
 
 header {
@@ -197,4 +198,20 @@ aside {
 .botao1:active, .botao2:active, .botao-copiar:active {
     transform: scale(0.95); 
     transition: transform .1s;
+}
+
+footer {
+    width: 100%;
+    background-color: #0A3871; 
+    color: #D8DFE8; 
+    text-align: center; 
+    padding: 10px 0; 
+    position: fixed;
+    bottom: 0; 
+    font-family: "Inter", sans-serif;
+}
+
+footer p {
+    margin: 0; 
+    font-size: 16px;
 }
