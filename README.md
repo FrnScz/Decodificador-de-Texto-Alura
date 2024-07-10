@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Oracle%20%2B%20Alura%20Banner.png">
+  <img height="450" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Oracle%20%2B%20Alura%20Banner.png">
 </div>
 
 # Challenge Oracle Next Education + Alura - Criptografador e Descriptografador de Texto
