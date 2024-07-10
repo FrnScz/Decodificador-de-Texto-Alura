@@ -60,7 +60,7 @@ Clique em "Copiar" para copiar o texto criptografado/descriptografado para a ár
 </p>
 
 ### Desenvolvido por: &copy; 2024 Fernando Scorza <br/>
-### Challenge Oracle Next Education + Alura - Criptografador e Descriptografador de Texto
+# Challenge Oracle Next Education + Alura - Criptografador e Descriptografador de Texto
 <div align="center">
   <img height="500" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Oracle%20%2B%20Alura%20Banner.png">
 </div>
