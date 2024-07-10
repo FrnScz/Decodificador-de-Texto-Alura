@@ -47,3 +47,7 @@ Digite o texto na área de texto.<br/>
 Clique em "Criptografar" para criptografar o texto.<br/>
 Clique em "Descriptografar" para descriptografar o texto. <br/>
 Clique em "Copiar" para copiar o texto criptografado/descriptografado para a área de transferência.
+
+<div align="center">
+  <img height="500" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Oracle%20%2B%20Alura%20Banner.png">
+</div>
