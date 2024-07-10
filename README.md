@@ -1,5 +1,5 @@
-div align="center">
-  <img height="200" src="">
+<div align="center">
+  <img height="450" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Oracle%20%2B%20Alura%20Banner.png">
 </div>
 
 # Challenge Oracle Next Education + Alura - Criptografador e Descriptografador de Texto
@@ -34,16 +34,20 @@ O arquivo JavaScript define as funções que realizam a criptografia, descriptog
 
 ### Como Usar:
 
-- **Clone o repositório:**
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-- **Navegue até o diretório do projeto:**
-cd seu-repositorio
-
-- **Abra o arquivo index.html em seu navegador:**
-open index.html
-
+- **Interface:**
 Digite o texto na área de texto.<br/>
+<img height="450" width ="100%" src="">
+
+- **Criptografar:**
 Clique em "Criptografar" para criptografar o texto.<br/>
+
+
+- **Descriptografar:**
 Clique em "Descriptografar" para descriptografar o texto. <br/>
-Clique em "Copiar" para copiar o texto criptografado/descriptografado para a área de transferência.
+
+- **Copiar:**
+Clique em "Copiar" para copiar o texto criptografado/descriptografado para a área de transferência. <br/>
+
+<div align="center">
+  <img height="500" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Oracle%20%2B%20Alura%20Banner.png">
+</div>
