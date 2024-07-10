@@ -39,7 +39,7 @@ cd seu-repositorio
 - **Abra o arquivo index.html em seu navegador:**
 open index.html
 
-Digite o texto na área de texto.
-Clique em "Criptografar" para criptografar o texto.
-Clique em "Descriptografar" para descriptografar o texto.
+Digite o texto na área de texto.<br/>
+Clique em "Criptografar" para criptografar o texto.<br/>
+Clique em "Descriptografar" para descriptografar o texto. <br/>
 Clique em "Copiar" para copiar o texto criptografado/descriptografado para a área de transferência.
