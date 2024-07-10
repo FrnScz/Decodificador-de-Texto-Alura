@@ -56,7 +56,7 @@ Clique em "Descriptografar" para descriptografar o texto. <br/>
 - **Copiar:**
 Clique em "Copiar" para copiar o texto criptografado/descriptografado para a área de transferência. <br/>
 <p align= "center" >
- <img width="auto" height="auto" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Copiar_2024.07.10-16.57_1.gif" >
+ <img width="auto" height="auto" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Copiar_2024.07.10-16.59_1.gif" >
 </p>
 
 <div align="center">
