@@ -35,7 +35,7 @@ O arquivo JavaScript define as funções que realizam a criptografia, descriptog
 ### Como Usar:
 
 - **Interface:**
-Digite o texto na área de texto.<br/>
+Digite o texto na área "Digite seu texto".<br/>
 <img height="450" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Interface.png">
 
 - **Criptografar:**
