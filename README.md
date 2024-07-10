@@ -1,3 +1,7 @@
+div align="center">
+  <img height="200" src="">
+</div>
+
 # Challenge Oracle Next Education + Alura - Criptografador e Descriptografador de Texto
 
 ## Descrição do Projeto
