@@ -43,12 +43,15 @@ Clique em "Criptografar" para criptografar o texto.<br/>
 <p align= "center" >
  <img width="auto" height="auto" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Criptografar_2024.07.10-16.55_1.gif" >
 </p>
+<br/>
 
 - **Descriptografar:**
 Clique em "Descriptografar" para descriptografar o texto. <br/>
 <p align= "center" >
  <img width="auto" height="auto" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Descriptografar_2024.07.10-16.56_1.gif" >
 </p>
+<br/>
+
 - **Copiar:**
 Clique em "Copiar" para copiar o texto criptografado/descriptografado para a área de transferência. <br/>
 <p align= "center" >
