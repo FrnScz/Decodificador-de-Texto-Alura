@@ -37,6 +37,7 @@ O arquivo JavaScript define as funções que realizam a criptografia, descriptog
 - **Interface:**
 Digite o texto na área "Digite seu texto".<br/>
 <img height="450" width ="100%" src="https://github.com/FrnScz/Decodificador-de-Texto-Alura/blob/main/assets/Interface.png">
+<br/>
 
 - **Criptografar:**
 Clique em "Criptografar" para criptografar o texto.<br/>
